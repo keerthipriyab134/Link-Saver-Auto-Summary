@@ -4,7 +4,8 @@ A modern full-stack web application for saving and organizing bookmarks with aut
 
 🚀 Live Demo
 
-View Live Demo ← Replace with your actual demo URL
+https://autosummarylinksaverkp.netlify.app/
+
 
 
 ✨ Features
@@ -92,7 +93,9 @@ JSON-based data structure - User accounts and bookmarks
 
 Per-user data isolation - Secure data separation
 
-<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 22 40 AM" src="https://github.com/user-attachments/assets/a7a96119-08be-4/>
+<img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 27 56 AM" src="https://github.com/user-attachments/assets/ff4b2fa1-b39d-4c5c-8fa7-317df0dbc1cd" />
+
+
 
 <img width="1440" height="900" alt="Screenshot 2025-08-14 at 12 23 38 AM" src="https://github.com/user-attachments/assets/18036ef1-022e-4df6-979b-c7687c379349" />
 
